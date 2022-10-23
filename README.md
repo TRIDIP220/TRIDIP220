@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tridip Kundu</h1>
-<h3 align="center">A passionate Django Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></a> </p>

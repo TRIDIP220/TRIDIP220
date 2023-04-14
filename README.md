@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></a> </p>
 
-- 🔭 I’m currently working on **Multi-vendor Ecommerce site**
+- 🔭 I’m currently Learning on **Ml**
 
 - 💬 Ask me about **Django,Html,css,js,sqlite3**
 

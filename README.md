@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tridip Kundu</h1>
-<h3 align="center">A passionate Ml-Engineer from India</h3>
+<h3 align="center"> Ml-Engineer Enthusiastic from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridip220&label=Profile%20views&color=0e75b6&style=flat" alt="tridip220" /> </p>
 

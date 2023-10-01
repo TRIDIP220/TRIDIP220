@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tridip Kundu</h1>
-<h3 align="center">A Ml-Engineer Enthusiastic from India, Solve Top 100 problems at LeetCode, Holding 4th rank in College Internal Tech-fest, Finalist at Jadavpur Software-event envision, Selected By Ministry Of Education, Class Topper</h3>
+<h3 align="center">A Ml-Engineer Enthusiastic from India, problem solver at LeetCode, Holding 4th rank in College Internal Tech-fest, Finalist at Jadavpur Software-event envision, Selected By Ministry Of Education</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridip220&label=Profile%20views&color=0e75b6&style=flat" alt="tridip220" /> </p>
 

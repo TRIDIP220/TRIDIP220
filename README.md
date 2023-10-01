@@ -1,13 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Tridip Kundu</h1>
+<h3 align="center">A passionate Ml-Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tridip220&label=Profile%20views&color=0e75b6&style=flat" alt="tridip220" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tridip220" alt="tridip220" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Learning on **Ml**
-
-- 💬 Ask me about **Django,Html,Css,js,Sql,python,c,java,numpy,pandas,Ml-algorithm,Dsa**
+- 💬 Ask me about **Django,Html,css,js,sqlite3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tridip220&show_icons=true&locale=en&layout=compact" alt="tridip220" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tridip220&show_icons=true&locale=en" alt="tridip220" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tridip220&" alt="tridip220" /></p>

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Learning on **Ml**
 
-- 💬 Ask me about **Django,Html,css,js,sqlite3**
+- 💬 Ask me about **Django,Html,Css,js,Sql,python,c,java,numpy,pandas,Ml-algorithm,Dsa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

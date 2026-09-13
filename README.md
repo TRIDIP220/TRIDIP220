@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tridip Kundu</h1>
-<h3 align="center">A Ml-Engineer Enthusiastic from India, problem solver at LeetCode, Holding 4th rank in College Internal Tech-fest, Finalist at Jadavpur Software-event envision, Selected By Ministry Of Education</h3>
+<h3 align="center">Data Science & AI Professional | Data Science Trainer | Machine Learning | Deep Learning | Generative AI | Agentic AI | Python | Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridip220&label=Profile%20views&color=0e75b6&style=flat" alt="tridip220" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **C,JAVA,PYTHON,DSA,LINUX,DJANGO,FLASK,numpy,pandas,matplotlib,ML-ALGORITHM,Git-Github**
+- 💬 Ask me about **Python,numpy,pandas,matplotlib,seaborn,Ploty,Machine Learning Algorithm ,Time Serise ,Deep Learning ,Generative-Ai & Agentic -Ai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

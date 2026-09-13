@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tridip Kundu</h1>
-
-<h3 align="center">Data Science & AI Professional | Data Science Trainer | Machine Learning | Deep Learning | Generative AI | Agentic AI</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tridip220&label=Profile%20views&color=0e75b6&style=flat" alt="tridip220" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -21,6 +13,7 @@
 ### 💼 Professional Experience
 
 **Data Science Trainer / Faculty**
+
 Currently working in Data Science and AI training, mentoring students, faculty members and professionals in:
 
 * Python & Data Analysis
@@ -33,17 +26,19 @@ Currently working in Data Science and AI training, mentoring students, faculty m
 * Research-oriented Project Mentoring
 
 **Data Science & ML Intern — ParkX**
+
 Previously worked as a **Data Science & Machine Learning Intern** at ParkX, contributing to data-driven solutions and Machine Learning projects, including work related to **parking occupancy prediction and time-series analysis**.
 
 ### 💬 Ask Me About
 
-**Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, Data Analysis, Machine Learning, Time Series, Deep Learning, Generative AI, Agentic AI and AI Projects**
+**Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, Data Analysis, Machine Learning, Time Series, Deep Learning, Generative AI, Agentic AI, FastAPI, Streamlit and AI Projects**
 
 ### 🔬 Areas of Interest
 
 * Data Science
 * Machine Learning
 * Deep Learning
+* Natural Language Processing
 * Generative AI
 * Agentic AI
 * Computer Vision
@@ -88,6 +83,14 @@ Previously worked as a **Data Science & Machine Learning Intern** at ParkX, cont
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </a>
 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+</a>
+
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
+</a>
+
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
@@ -97,7 +100,7 @@ Previously worked as a **Data Science & Machine Learning Intern** at ParkX, cont
 </a>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 
 </p>

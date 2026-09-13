@@ -18,6 +18,23 @@
 * 4th Rank Holder in **College Internal Tech-Fest**
 * Selected by the **Ministry of Education**
 
+### 💼 Professional Experience
+
+**Data Science Trainer / Faculty**
+Currently working in Data Science and AI training, mentoring students, faculty members and professionals in:
+
+* Python & Data Analysis
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Agentic AI
+* Data Science Projects
+* Research-oriented Project Mentoring
+
+**Data Science & ML Intern — ParkX**
+Previously worked as a **Data Science & Machine Learning Intern** at ParkX, contributing to data-driven solutions and Machine Learning projects, including work related to **parking occupancy prediction and time-series analysis**.
+
 ### 💬 Ask Me About
 
 **Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, Data Analysis, Machine Learning, Time Series, Deep Learning, Generative AI, Agentic AI and AI Projects**
